@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 892e8c0867014bf458d7867374573cef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TheFoolSpriteSheetVibratil
+    21300002: TheFoolSpriteSheetVibratil_0
+    21300004: TheFoolSpriteSheetVibratil_1
+    21300006: TheFoolSpriteSheetVibratil_2
+    21300008: TheFoolSpriteSheetVibratil_3
+    21300010: TheFoolSpriteSheetVibratil_4
+    21300012: TheFoolSpriteSheetVibratil_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TheFoolSpriteSheetVibratil_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 179
+        width: 103
+        height: 154
+      alignment: 9
+      pivot: {x: .644646406, y: .626452386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TheFoolSpriteSheetVibratil_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 180
+        width: 126
+        height: 151
+      alignment: 9
+      pivot: {x: .60402596, y: .638885081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TheFoolSpriteSheetVibratil_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 169
+        width: 125
+        height: 164
+      alignment: 9
+      pivot: {x: .604858398, y: .655277908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TheFoolSpriteSheetVibratil_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 131
+        height: 153
+      alignment: 9
+      pivot: {x: .634360373, y: .627278984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TheFoolSpriteSheetVibratil_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 25
+        width: 90
+        height: 154
+      alignment: 9
+      pivot: {x: .678924739, y: .633747816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TheFoolSpriteSheetVibratil_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: .60402596, y: .664955616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
